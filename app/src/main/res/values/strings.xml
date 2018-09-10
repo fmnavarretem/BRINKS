@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BRINKS</string>
+    <!--AppDetail-->
+    <string name="about">About:</string>
+    <string name="price">Price:</string>
+    <string name="releaseDate">Release Date:</string>
+    <string name="category">Category:</string>
+    <string name="AZ">Az</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_tiny">8dp</dimen>
+    <dimen name="height_medium">100dp</dimen>
+    <dimen name="subtitle_size">16sp</dimen>
+</resources>
